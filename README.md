@@ -16,7 +16,48 @@
 3. Jupyter Notebook : HTML版をエクスポートする． (.html)
 4. Jupyter Notebook : Slide指定でRISEの動作を確認後， Reveal.js slides版をエクスポートする． (.slides.html) <https://revealjs.com/>
 
-## 目次
+## 概要
+
+近年，チャットサービスであるChatGPTが注目を浴びているように，AI技術による自然言語処理技術の高度化はとどまるところを知らない．これまでにも，AI技術による自然言語処理ツールとしてBERTやDoc2Vecなどが登場しているが，当然ながらそれぞれで機能は異なり，深く理解するにはまず実行環境を整えることが肝要である．ここでは，AI技術による自然言語処理が可能な様々な従来ツールについて，手元で動作させるための環境構築や具体例によるデモンストレーションを中心に紹介する．なお，旧来の自然言語処理ツールの用法についても，基礎的技術の位置づけとして紹介する．
+
+## 目次（紹介ツール一覧）
+
+Tentative：紹介内容は増減する可能性があります．また現在の表示順は順不同です．
+
+旧来の自然言語処理ツール（一部はAI技術も利用できる）
+* MeCab
+* Juman
+* KNP
+* CaboCha
+* Kuromoji
+* Sudachi
+* ChaSen
+* Nagisa
+* NLTK
+* GinZa
+* spaCy
+* StanfordNLP
+* OpenNLP
+* Polyglot
+* WordNet
+* Pykakasi
+* Mozc
+* KyTea
+* lindera
+* KenLM
+
+AIによる自然言語処理ツール
+* word2vec
+* fastText
+* doc2vec
+* BERT
+* Transformers
+* Spacy-Transformers
+* ChatGPT
+* Google Bard
+* Rasa NLU
+* AllenNLP
+* Senna
 
 TBA
 
