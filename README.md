@@ -24,13 +24,13 @@
 
 ### Part-1 自然言語処理ツール（主要5プロジェクトの紹介）
 
-* 1. MeCab (fugashi)：日本語の形態素解析を行うためのオープンソースのツール（fugashi：MeCabをPythonで利用するためのラッパーライブラリ）
-* 2. Ginza：SpaCy自然言語処理ツールキットのための日本語言語モデル
-* 3. GenSim：ピックモデリングや自然言語処理タスクを行うためのライブラリ
-** 3.1 Word2Vec：単語をベクトル化するための手法
-** 3.2 Doc2Vec：文章全体をベクトル化する手法（Word2Vecの拡張）
-* 4. BERT：Bidirectional Encoder Representations from Transformers。Transformerアーキテクチャを基盤にした自然言語処理モデル
-* 5. PaLM API：Pattern and Language Model API。テキスト分析、感情分析、意図推定などの自然言語処理タスクを行うためのインターフェースを提供
+1. MeCab (fugashi)：日本語の形態素解析を行うためのオープンソースのツール（fugashi：MeCabをPythonで利用するためのラッパーライブラリ）
+2. Ginza：SpaCy自然言語処理ツールキットのための日本語言語モデル
+3. GenSim：ピックモデリングや自然言語処理タスクを行うためのライブラリ
+ - 3.1 Word2Vec：単語をベクトル化するための手法
+ - 3.2 Doc2Vec：文章全体をベクトル化する手法（Word2Vecの拡張）
+4. BERT：Bidirectional Encoder Representations from Transformers。Transformerアーキテクチャを基盤にした自然言語処理モデル
+5. PaLM API：Pattern and Language Model API。テキスト分析、感情分析、意図推定などの自然言語処理タスクを行うためのインターフェースを提供
 
 ### Part-2 自然言語処理ツール（その他のプロジェクトの紹介）
 
